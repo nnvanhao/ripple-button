@@ -1,2 +1,2 @@
 # ripple-button
-![Image of Yaktocat](https://drive.google.com/file/d/10ZXsuvFdETuzPFly6g9QskkNIyzHG8iG/view?usp=sharing)
+![Image of Yaktocat](https://i.ibb.co/FB2R2Mw/demo.png)
