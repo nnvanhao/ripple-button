@@ -1,2 +1,2 @@
 # ripple-button
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://drive.google.com/file/d/10ZXsuvFdETuzPFly6g9QskkNIyzHG8iG/view?usp=sharing)
